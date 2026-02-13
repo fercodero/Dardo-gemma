@@ -2,7 +2,6 @@ streamlit
 langchain
 langchain-community
 langchain-core
-langchain-google-genai
+langchain-groq
 faiss-cpu
 sentence-transformers
-google-api-core
